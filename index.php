@@ -1,15 +1,15 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+﻿<!doctype HTML>
+<html>
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="robots" content="index,follow" />
-<meta name="description" content="The MZS Systems" />
-<meta name="keywords" content="MZS Systems" />
-<meta name="title" content="MZS Systems-Note" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="title" content="" />
 <link rel="stylesheet" type="text/css" media="all" href="../style/style.css" />
 <link rel="shortcut icon" href="../favicon.ico"/>
-<title>MZS Systems-Note</title>
+<title>Simple Note System</title>
 
 </head>
 <style type="text/css"></style>
@@ -17,10 +17,9 @@
 <div class="main">
 <div class="header"><br/>MZS</div>
 <div class="menu">
-   <a href="../index.php">صفحه نخست</a>
+   <a href="./index.php">صفحه نخست</a>
    <a href="./index.php" class="active">یاداشت</a>
    <a href="../task_management/index.php">مدیریت کارها</a>
-   <a href="./" title="سفارش ساخت سیستم یا وب سایت">سفارش</a>
 </div>
 <div class="content">
 <div class="post">
