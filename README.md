@@ -1,3 +1,4 @@
-This is ream me file
-Must Complete later
-Edit Line
+== Readme ==
+سیستم یادداشت برداری ساده 
+<br/>
+نوشته با زبان برنامه نویسی PHP
